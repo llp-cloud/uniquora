@@ -17,11 +17,11 @@ Hi, I’m Pedro Miguel Dos Reis Carvalho De Melo, a freelance web designer with 
 
 ## Portfolio
 
-    <b>Project 1</b>: Café Bliss - A modern, responsive website for a coffee shop featuring an online menu and reservation system.
+    Project 1: Café Bliss - A modern, responsive website for a coffee shop featuring an online menu and reservation system.
 
-    <b>Project 2</b>: GreenTech - An eco-friendly company website with interactive content and blog integration.
+    Project 2: GreenTech - An eco-friendly company website with interactive content and blog integration.
 
-    <b>Project 3</b>: FitLife - An e-commerce platform for a fitness brand with a custom product filter.
+    Project 3: FitLife - An e-commerce platform for a fitness brand with a custom product filter.
 
 ## Testimonials:
 
@@ -31,13 +31,13 @@ Hi, I’m Pedro Miguel Dos Reis Carvalho De Melo, a freelance web designer with 
 
 ## Process
 
-    <b>Consultation</b>: Discuss your goals, audience, and style.
+    Consultation: Discuss your goals, audience, and style.
 
-    <b>Planning</b>: Develop a clear roadmap and wireframe.
+    Planning: Develop a clear roadmap and wireframe.
 
-    <b>Design & Development</b>: Create, revise, and implement your website.
+    Design & Development: Create, revise, and implement your website.
 
-    <b>Testing</b>: Ensure the site runs flawlessly across all devices.
+    Testing: Ensure the site runs flawlessly across all devices.
 
     Launch & Support: Deploy the website and provide ongoing support.
 
