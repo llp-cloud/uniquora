@@ -23,6 +23,8 @@ Hi, I’m Pedro Miguel Dos Reis Carvalho De Melo, a freelance web designer with 
 
     Project 3: FitLife - An e-commerce platform for a fitness brand with a custom product filter.
 
+    Project 4: Ericsson - A single-page website for the Client under the Basic Package.
+
 ## Testimonials:
 
     "Alex brought our vision to life! Our customers love the new website." - Emma, Café Bliss.
